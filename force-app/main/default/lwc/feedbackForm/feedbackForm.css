@@ -1,0 +1,35 @@
+.center{
+    text-align: center;
+}
+
+.btn{
+    padding: 6px 10px;
+    font-size: 12px;
+    border: none;
+    background-color: #3174D1;
+    color: white;
+    border-radius: 8px;
+}
+
+.container{
+    text-align: center;
+}
+
+.heading{
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading h1{
+    font-size: 1.6rem;
+}
+
+.details{
+    margin-top: 12px;
+    font-weight: 200;
+    font-size: 1rem;
+}
+
+.fw{
+    font-weight: 600;
+}
